@@ -1,0 +1,14 @@
+[ {
+	"id" : "1",
+	"text" : "Address1",
+	"address" : "55,indrapuri, sirhind Road, patiala",
+	"city" : "patiala",
+	"name":"jass"
+}, {
+	"id" : "2",
+	"text" : "Address2",
+	"address" : "sector 50, Noida",
+	"city" : "noida",
+	"name":"jass2"
+}
+]
